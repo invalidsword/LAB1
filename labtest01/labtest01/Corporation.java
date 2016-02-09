@@ -2,7 +2,7 @@ package labtest01;
 
 import java.util.HashMap;
 import java.util.Map;
-
+//just goofing
 /**
  * Represents a company that owns and operates
  * one or more grocery stores, each with its own inventory.
